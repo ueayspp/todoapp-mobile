@@ -31,9 +31,9 @@ export default function Credit() {
       >
         <Text style={styles.textHeader}>จัดทำโดย</Text>
         <Text style={styles.textContent}>6234464123 ศุภาเพ็ญ แก้วลี</Text>
-        <Text style={styles.textContent}>6234467023 สุภาพร จารัตน์</Text>
-        <Text style={styles.textContent}>6234467023 อรจิรา แกล้วเดชศรี</Text>
-        <Text style={styles.textContent}>6234467023 อรุษา ธนโกไสย</Text>
+        <Text style={styles.textContent}>6234466423 สุภาพร จารัตน์</Text>
+        <Text style={styles.textContent}>6234469323 อรจิรา แกล้วเดชศรี</Text>
+        <Text style={styles.textContent}>6234471523 อรุษา ธนโกไสย</Text>
       </TouchableOpacity>
       <StatusBar style="auto" />
     </View>
